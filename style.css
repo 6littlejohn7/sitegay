@@ -1,0 +1,40 @@
+body {
+    background-color: #121212;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+h2 {
+    color: #ffffff;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+h5 {
+    color: #ff00bf;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+p {
+    color: #B8B8B8;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+}
+.logo {
+    display: block;
+    width: 90%;
+    max-width: 700px;
+    height: auto;
+    margin: 0 auto;
+}
+.goularte {
+    display: block;
+    width: 80%;
+    max-width: 500px;
+    height: auto;
+    margin: 20px auto;
+}
